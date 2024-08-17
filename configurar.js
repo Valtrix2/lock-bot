@@ -2,14 +2,14 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //coloque o número do dono
-global.dono = '22898133388' 
+global.dono = '50942336998' 
 
 //informações da figurinha 
-global.packname = '¹⁴³ ᴬˡᵉᵐᵃᵖ 🧸💜:\𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛:\+22898133388:'
-global.author = '𝙹𝚎𝚊𝚗 𝙿𝚊𝚛𝚔𝚎𝚛'
+global.packname = '𖣘➭𝙫𝙖𝙡𝙩𝙧𝙞𝙭𐂂✞'
+global.author = '𖣘➭𝙫𝙖𝙡𝙩𝙧𝙞𝙭𐂂✞'
 
 //coloque seu prefixo
-global.prefixo = ["."]
+global.prefixo = ["/"]
 
 //auto biografia do whatsapp 
 global.autobio = true //true = ativo, false = destivado
